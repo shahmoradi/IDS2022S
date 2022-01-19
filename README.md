@@ -1,10 +1,10 @@
-# IDS2021F
+# IDS2022S
 
-## Fall 2021 - Introduction to Data Science
+## Spring 2022 - Introduction to Data Science
  
 Information about this course can be found on the course web-page:
  
-http://www.cdslab.org/IDS2021F/
+http://www.cdslab.org/IDS2022S/
 
 For questions about this course, contact:
 
