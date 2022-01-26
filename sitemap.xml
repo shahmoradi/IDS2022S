@@ -1,62 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>/IDS2021F</loc>
+        <loc>/IDS2022S</loc>
     </url>
     
     
     <url>
-        <loc>/IDS2021F/404</loc>
+        <loc>/IDS2022S/404</loc>
     </url>
     
     <url>
-        <loc>/IDS2021F/about/index.html</loc>
+        <loc>/IDS2022S/about/index.html</loc>
     </url>
     
     <url>
-        <loc>/IDS2021F/categories/index.html</loc>
+        <loc>/IDS2022S/categories/index.html</loc>
     </url>
     
     <url>
-        <loc>/IDS2021F/feed.xml</loc>
+        <loc>/IDS2022S/feed.xml</loc>
     </url>
     
     <url>
-        <loc>/IDS2021F/highlights/</loc>
+        <loc>/IDS2022S/highlights/</loc>
     </url>
     
     <url>
-        <loc>/IDS2021F/</loc>
+        <loc>/IDS2022S/</loc>
     </url>
     
     <url>
-        <loc>/IDS2021F/links.jsonp</loc>
+        <loc>/IDS2022S/links.jsonp</loc>
     </url>
     
     <url>
-        <loc>/IDS2021F/search.json</loc>
+        <loc>/IDS2022S/search.json</loc>
     </url>
     
     <url>
-        <loc>/IDS2021F/sitemap.xml</loc>
+        <loc>/IDS2022S/sitemap.xml</loc>
     </url>
     
     <url>
-        <loc>/IDS2021F/tags/index.html</loc>
+        <loc>/IDS2022S/tags/index.html</loc>
     </url>
     
 
     
     <url>
-        <loc>/IDS2021F/lecture/1-programming-history</loc>
+        <loc>/IDS2022S/lecture/1-programming-history</loc>
     </url>
     
     <url>
-        <loc>/IDS2021F/lecture/0-intro-data-science</loc>
+        <loc>/IDS2022S/homework/1-vcs</loc>
     </url>
     
     <url>
-        <loc>/IDS2021F/announcement/0-student-professor-connection-day</loc>
+        <loc>/IDS2022S/lecture/0-intro-data-science</loc>
+    </url>
+    
+    <url>
+        <loc>/IDS2022S/announcement/0-student-professor-connection-day</loc>
     </url>
     
 </urlset>

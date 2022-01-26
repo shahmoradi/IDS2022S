@@ -3,15 +3,23 @@
 		{
 		  "title"      : "Lecture 1: Programming history",
 		  "category"   : "",
-		  "url"        : "/IDS2021F/lecture/1-programming-history",
+		  "url"        : "/IDS2022S/lecture/1-programming-history",
 		  "date"       : "2022-01-31 00:00:00 -0600",
 		  "shortdate"  : "January 31, 2022"
 		} ,
 	
 		{
+		  "title"      : "Homework 1: Version Control Using Git and Github",
+		  "category"   : "",
+		  "url"        : "/IDS2022S/homework/1-vcs",
+		  "date"       : "2022-01-26 00:00:00 -0600",
+		  "shortdate"  : "January 26, 2022"
+		} ,
+	
+		{
 		  "title"      : "Lecture 0: Introduction to Data Science",
 		  "category"   : "",
-		  "url"        : "/IDS2021F/lecture/0-intro-data-science",
+		  "url"        : "/IDS2022S/lecture/0-intro-data-science",
 		  "date"       : "2022-01-24 00:00:00 -0600",
 		  "shortdate"  : "January 24, 2022"
 		} ,
@@ -19,7 +27,7 @@
 		{
 		  "title"      : "Announcement 0: Student-professor connection day",
 		  "category"   : "",
-		  "url"        : "/IDS2021F/announcement/0-student-professor-connection-day",
+		  "url"        : "/IDS2022S/announcement/0-student-professor-connection-day",
 		  "date"       : "2022-01-19 00:00:00 -0600",
 		  "shortdate"  : "January 19, 2022"
 		} 
