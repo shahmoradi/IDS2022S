@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Homework 2: Programming History",
+		  "category"   : "",
+		  "url"        : "/IDS2022S/homework/2-programming-history",
+		  "date"       : "2022-02-14 00:00:00 -0600",
+		  "shortdate"  : "February 14, 2022"
+		} ,
+	
+		{
 		  "title"      : "Quiz 1: Intro. Data Science, Version Control Systems",
 		  "category"   : "",
 		  "url"        : "/IDS2022S/quiz/1-intro-vcs",
