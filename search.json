@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Lecture 2: Data Visualization Techniques",
+		  "category"   : "",
+		  "url"        : "/IDS2022S/lecture/2-data.vis",
+		  "date"       : "2022-02-16 00:00:00 -0600",
+		  "shortdate"  : "February 16, 2022"
+		} ,
+	
+		{
 		  "title"      : "Homework 2: Programming History",
 		  "category"   : "",
 		  "url"        : "/IDS2022S/homework/2-programming-history",

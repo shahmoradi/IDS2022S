@@ -7,6 +7,11 @@ callback([
   } ,
 
   {
+    "text": "Lecture 2: Data Visualization Techniques",
+    "href": "/IDS2022S/lecture/2-data.vis"
+  } ,
+
+  {
     "text": "Lecture 1: Programming history",
     "href": "/IDS2022S/lecture/1-programming-history"
   } ,
