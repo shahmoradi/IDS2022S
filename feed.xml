@@ -7,13 +7,148 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/IDS2022S/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/IDS2022S/" />
-<updated>2022-02-16T13:27:36-06:00</updated>
+<updated>2022-02-21T13:27:18-06:00</updated>
 <id>http:/IDS2022S/</id>
 <author>
   <name>Amir Shahmoradi</name>
   <uri>http:/IDS2022S/</uri>
   <email>shahmoradi@utexas.edu</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Quiz 2: Programming History]]></title>
+  <link rel="alternate" type="text/html" href="http:/IDS2022S/quiz/2-prog-hist"/>
+  <id>http:/IDS2022S/quiz/2-prog-hist</id>
+  <published>2022-02-21T00:00:00-06:00</published>
+  <updated>2022-02-21T00:00:00-06:00</updated>
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/IDS2022S</uri>
+    <email>shahmoradi@utexas.edu</email>
+  </author>
+  
+  <content type="html">
+  
+    &lt;!--
+This is the solution to [Quiz 1: Problems - Version control system](1-problems-version-control-system.html){:target=&quot;_blank&quot;}.
+
+The following figure illustrates the grade distribution for this quiz.
+&lt;figure&gt;
+    &lt;img src=&quot;http:/IDS2022S/quiz/gradeDist/gradeHistQuiz1.png&quot; width=&quot;700&quot;&gt;
+    &lt;figcaption style=&quot;text-align:center&quot;&gt;
+        Maximum possible points is 1.
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+
+&lt;p&gt;This quiz aims at testing your basic knowledge of programming history. Don’t forget to push your answers to your remote repository by the end of quiz time. Push all your answers to &lt;strong&gt;quiz/2/&lt;/strong&gt; folder in your Github project.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;What is the name of the fastest part of a computer memory?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What is the slowest kind of computer storage device?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name the hierarchy of the memory of modern computers, from the smallest to the largest memory size?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Which memory device is longer lasting: magnetic tapes or HDD hard-drives?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What is smallest unit of information in computers?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Why humans have chosen the binary numbers (0 and 1) to represent data in computers?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What is the typical speed of contemporary computer registers?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What decade was the first digital computer built?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What is a fixed program computer?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What is the difference between declarative and imperative knowledge?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What class of human knowledge do algorithms belong to?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What is a computer bug?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What is a compiler?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What is the name of the first digital computer?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name a computer programming language whose evolution and popularity is tightly coupled with the field of Bioinformatics.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name a computer programming language whose evolution and popularity is tightly coupled with the field of Numerical Computing, Atmospheric Science, Plasma Sciences, and Aerospace Engineering, among others.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name the five major components of a modern digital computer.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name an example of fixed-program computer.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Order the following languages chronologically according to their birth date.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;(A) What is the closest programming language to machine code (i.e., binary code)?&lt;/p&gt;
+
+    &lt;p&gt;(B) Does it need interpretation in order to become machine-comprehensible?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;(A) Name the oldest high-level programming language that is still in active daily use.&lt;/p&gt;
+
+    &lt;p&gt;(B) Approximately how many decades is it old? ($\pm15$ years is acceptable answer. the decade it was created is also an acceptable answer)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;(A) Name a second-generation programming language.&lt;/p&gt;
+
+    &lt;p&gt;(B) Which language-generation are Fortran, C, C++, MATLAB, Python, R?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In what decades Fortran, C, C++, and MATLAB/Python were created, respectively?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name an ancestor programming language of C.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name a programming language ancestor of C++.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name a programming language ancestor of MATLAB and a programming language ancestor of Python.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Explain briefly, with an example, the notion of &lt;strong&gt;class&lt;/strong&gt; in computer programming.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;How do you define &lt;strong&gt;logarithm&lt;/strong&gt;? Explain very briefly with an example.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;How would you distinguish exponential behavior vs. power-law behavior (function) in a 2-dimensional plot? (&lt;strong&gt;Hint&lt;/strong&gt;: Look at the keywords popularity graph in our lecture.)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/IDS2022S/quiz/2-prog-hist&quot;&gt;Quiz 2: Programming History&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2022S&quot;&gt;DATA 1301 - Spring 2022 - MW 2:30-3:50 PM - PKH 111 / Microsoft Teams Virtual Room&lt;/a&gt; on February 21, 2022.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -514,7 +649,7 @@ Inside the &lt;code&gt;hw&lt;/code&gt; folder, create another folder named &lt;c
 
 &lt;h2 id=&quot;my-research-topics&quot;&gt;My research topics&lt;/h2&gt;
 
-&lt;p&gt;The following are a few examples of what I do nowadays as part of my scientific research at UT Austin.&lt;/p&gt;
+&lt;p&gt;The following are a few examples of what I do nowadays as part of my scientific research at UTA.&lt;/p&gt;
 
 &lt;h3 id=&quot;theoretical-astrophysics&quot;&gt;Theoretical Astrophysics&lt;/h3&gt;
 

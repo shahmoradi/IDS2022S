@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Quiz 2: Programming History",
+		  "category"   : "",
+		  "url"        : "/IDS2022S/quiz/2-prog-hist",
+		  "date"       : "2022-02-21 00:00:00 -0600",
+		  "shortdate"  : "February 21, 2022"
+		} ,
+	
+		{
 		  "title"      : "Lecture 2: Data Visualization Techniques",
 		  "category"   : "",
 		  "url"        : "/IDS2022S/lecture/2-data.vis",
