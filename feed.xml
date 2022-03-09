@@ -7,13 +7,129 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/IDS2022S/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/IDS2022S/" />
-<updated>2022-03-07T09:44:30-06:00</updated>
+<updated>2022-03-09T14:27:31-06:00</updated>
 <id>http:/IDS2022S/</id>
 <author>
   <name>Amir Shahmoradi</name>
   <uri>http:/IDS2022S/</uri>
   <email>shahmoradi@utexas.edu</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Quiz 3: Data Visualization]]></title>
+  <link rel="alternate" type="text/html" href="http:/IDS2022S/quiz/3-data.vis"/>
+  <id>http:/IDS2022S/quiz/3-data.vis</id>
+  <published>2022-03-09T00:00:00-06:00</published>
+  <updated>2022-03-09T00:00:00-06:00</updated>
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/IDS2022S</uri>
+    <email>shahmoradi@utexas.edu</email>
+  </author>
+  
+  <content type="html">
+  
+    &lt;!--
+This is the solution to [Quiz 1: Problems - Version control system](1-problems-version-control-system.html){:target=&quot;_blank&quot;}.
+
+The following figure illustrates the grade distribution for this quiz.
+&lt;figure&gt;
+    &lt;img src=&quot;http:/IDS2022S/quiz/gradeDist/gradeHistQuiz1.png&quot; width=&quot;700&quot;&gt;
+    &lt;figcaption style=&quot;text-align:center&quot;&gt;
+        Maximum possible points is 1.
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+
+&lt;p&gt;This quiz aims at testing your basic knowledge of Data Visualization. Don’t forget to push your answers to your remote repository by the end of quiz time. Push all your answers to &lt;strong&gt;quiz/3/&lt;/strong&gt; folder in your Github project.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;what are &lt;em&gt;aesthetics&lt;/em&gt; in data visualization? Name a few aesthetics that can appear in a data visualization.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name the two major classes of aesthetics.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What is the difference between factors and levels?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name the two major types of data and provide an example for each category.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What is the common name for variables holding data?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name a few examples of &lt;em&gt;ordered&lt;/em&gt; and &lt;em&gt;unordered&lt;/em&gt; data.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What kinds of axes in a plot should be represented with the same units and grid size?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Describe an example scenario where transforming the axes of the plot results in better visualizations.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What kind of data set can be best visualized in &lt;em&gt;polar coordinates&lt;/em&gt;?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name four different color scales and explain their most appropriate usage.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/vis-world-population/vis-world-population&quot; target=&quot;_blank&quot;&gt;Visualization: The world population&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/vis-world-population-refined/vis-world-population-refined&quot; target=&quot;_blank&quot;&gt;Visualization: The world population (refined)&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/vis-world-map-resized/vis-world-map-resized&quot; target=&quot;_blank&quot;&gt;Visualization: The world map resized by population&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/vis-internet-usage/vis-internet-usage&quot; target=&quot;_blank&quot;&gt;Visualization: Worldwide Internet Usage&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/vis-population-growth-tx-la/vis-population-growth-tx-la&quot; target=&quot;_blank&quot;&gt;US states population growth&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/visualization-coloring/visualization-coloring&quot; target=&quot;_blank&quot;&gt;Best visualization coloring&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/vis-most-moderate-temp-city/vis-most-moderate-temp-city&quot; target=&quot;_blank&quot;&gt;US cities temperatures&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/vis-colorscales/vis-colorscales&quot; target=&quot;_blank&quot;&gt;Colorscale classes&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/vis-ugly-graph/vis-ugly-graph&quot; target=&quot;_blank&quot;&gt;An ugly visualization&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/vis-graph-wrong/vis-graph-wrong&quot; target=&quot;_blank&quot;&gt;A wrong visualization&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/vis-excel-bar-plot/vis-excel-bar-plot&quot; target=&quot;_blank&quot;&gt;An Excel Bar plot&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;How would you distinguish exponential behavior vs. power-law behavior (function) in a 2-dimensional plot like &lt;a href=&quot;https://www.cdslab.org/python/notes/preliminary-foundations/programming-history/wordFreq.png&quot; target=&quot;_blank&quot;&gt;this one&lt;/a&gt;?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/regression-predicting-future-global-land-temperature-maxlikelihood/GlobalLandTemperatureAnomaly.png&quot; target=&quot;_blank&quot;&gt;This graph&lt;/a&gt; 
+displays the global land temperature &lt;strong&gt;anomaly&lt;/strong&gt; of earth over the past 300 years. 
+The vertical axis basically tells use how hot Earth has been in a given year compared to the average temperature during 1951-1980. 
+Just by looking a this graph, do you think if the temperature of Earth will increase or decrease in the following decades? 
+Approximately, how much hotter or cooler do you think Earth will be in 2050 with respect to the average temperature during 1951-1980 (the zero anomaly temperature)? 
+Express your answer in units of Celsius.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/IDS2022S/quiz/3-data.vis&quot;&gt;Quiz 3: Data Visualization&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2022S&quot;&gt;DATA 1301 - Spring 2022 - MW 2:30-3:50 PM - PKH 111 / Microsoft Teams Virtual Room&lt;/a&gt; on March 09, 2022.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
