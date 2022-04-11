@@ -42,6 +42,11 @@ callback([
   } ,
 
   {
+    "text": "Homework 5: Probability Theory",
+    "href": "/IDS2022S/homework/5-probability-theory"
+  } ,
+
+  {
     "text": "Homework 4: Logic",
     "href": "/IDS2022S/homework/4-logic"
   } ,

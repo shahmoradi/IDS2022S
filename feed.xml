@@ -7,13 +7,41 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/IDS2022S/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/IDS2022S/" />
-<updated>2022-04-04T14:28:43-05:00</updated>
+<updated>2022-04-11T13:44:22-05:00</updated>
 <id>http:/IDS2022S/</id>
 <author>
   <name>Amir Shahmoradi</name>
   <uri>http:/IDS2022S/</uri>
   <email>shahmoradi@utexas.edu</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Homework 5: Probability Theory]]></title>
+  <link rel="alternate" type="text/html" href="http:/IDS2022S/homework/5-probability-theory"/>
+  <id>http:/IDS2022S/homework/5-probability-theory</id>
+  <published>2022-04-11T00:00:00-05:00</published>
+  <updated>2022-04-11T00:00:00-05:00</updated>
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/IDS2022S</uri>
+    <email>shahmoradi@utexas.edu</email>
+  </author>
+  
+  <content type="html">
+  
+    &lt;p&gt;♣ &lt;strong&gt;Due Date: Monday April 18, 2021 2:30 PM&lt;/strong&gt;. This homework aims at giving you some experience with the history and fundamentals of probability theory.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/probability-bayes-rule-proof-venn-disgram/probability-bayes-rule-proof-venn-disgram&quot; target=&quot;_blank&quot;&gt;The proof of Bayes’ Rule via Venn diagram&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/probability-correspondence-with-common-sense/probability-correspondence-with-common-sense&quot; target=&quot;_blank&quot;&gt;Probability Theory: correspondence with commonsense&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/probability-desiderata/probability-desiderata&quot; target=&quot;_blank&quot;&gt;The fundamental desiderata of Probability Theory&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/probability-schools-of-thought/probability-schools-of-thought&quot; target=&quot;_blank&quot;&gt;The major schools of thought in Probability Theory&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/IDS2022S/homework/5-probability-theory&quot;&gt;Homework 5: Probability Theory&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2022S&quot;&gt;DATA 1301 - Spring 2022 - MW 2:30-3:50 PM - PKH 111 / Microsoft Teams Virtual Room&lt;/a&gt; on April 11, 2022.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -56,7 +84,7 @@ Push all your answers to &lt;strong&gt;quiz/4/&lt;/strong&gt; folder in your Git
 
 &lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;Please go to &lt;a href=&quot;https://utaedu.questionpro.com/t/AS6OrZqwil&quot; target=&quot;_blank&quot;&gt;course prgress this survey&lt;/a&gt; and fill it out.
+    &lt;p&gt;Please go to &lt;a href=&quot;https://utaedu.questionpro.com/t/AS6OrZqwil&quot; target=&quot;_blank&quot;&gt;this course prgress survey&lt;/a&gt; and fill it out.
 It is completely anonymous and helps me (the instructor) to better serve your needs in this class.
 If you are worried about the quiz time, you can fill it out at the end of the quiz/class.&lt;/p&gt;
   &lt;/li&gt;
