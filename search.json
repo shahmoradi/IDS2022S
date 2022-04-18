@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Quiz 5: Probability Theory",
+		  "category"   : "",
+		  "url"        : "/IDS2022S/quiz/5-probability-theory",
+		  "date"       : "2022-04-18 00:00:00 -0500",
+		  "shortdate"  : "April 18, 2022"
+		} ,
+	
+		{
 		  "title"      : "Homework 5: Probability Theory",
 		  "category"   : "",
 		  "url"        : "/IDS2022S/homework/5-probability-theory",

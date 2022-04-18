@@ -7,13 +7,83 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/IDS2022S/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/IDS2022S/" />
-<updated>2022-04-11T13:44:22-05:00</updated>
+<updated>2022-04-18T14:36:28-05:00</updated>
 <id>http:/IDS2022S/</id>
 <author>
   <name>Amir Shahmoradi</name>
   <uri>http:/IDS2022S/</uri>
   <email>shahmoradi@utexas.edu</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Quiz 5: Probability Theory]]></title>
+  <link rel="alternate" type="text/html" href="http:/IDS2022S/quiz/5-probability-theory"/>
+  <id>http:/IDS2022S/quiz/5-probability-theory</id>
+  <published>2022-04-18T00:00:00-05:00</published>
+  <updated>2022-04-18T00:00:00-05:00</updated>
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/IDS2022S</uri>
+    <email>shahmoradi@utexas.edu</email>
+  </author>
+  
+  <content type="html">
+  
+    &lt;!--
+This is the solution to [Quiz 1: Problems - Version control system](1-problems-version-control-system.html){:target=&quot;_blank&quot;}.
+
+The following figure illustrates the grade distribution for this quiz.
+&lt;figure&gt;
+    &lt;img src=&quot;http:/IDS2022S/quiz/gradeDist/gradeHistQuiz1.png&quot; width=&quot;700&quot;&gt;
+    &lt;figcaption style=&quot;text-align:center&quot;&gt;
+        Maximum possible points is 1.
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+
+&lt;p&gt;This quiz aims at testing your basic knowledge of model selection and cognitive biases.
+Don’t forget to push your answers to your remote repository by the end of quiz time.
+Push all your answers to &lt;strong&gt;quiz/5/&lt;/strong&gt; folder in your GitHub project.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;What is the difference between the NAND and NOR operators?&lt;/li&gt;
+  &lt;li&gt;Are the NAND and NOR operators sufficient for building all other logic functions?&lt;/li&gt;
+  &lt;li&gt;Name the two prominent schools of thought in probability theory.&lt;/li&gt;
+  &lt;li&gt;Which school(s) of thought in probability theory are ideally suited for problems with limited data.&lt;/li&gt;
+  &lt;li&gt;Which school(s) of thought in probability theory are ideally suited for problems with abundant data.&lt;/li&gt;
+  &lt;li&gt;Which school(s) of thought define probability as the relative count of occurrence of events?&lt;/li&gt;
+  &lt;li&gt;Which school(s) of thought define probability as the level of confidence in a proposition?&lt;/li&gt;
+  &lt;li&gt;Which school(s) of thought allow the inclusion of prior or expert knowledge in the inference?&lt;/li&gt;
+  &lt;li&gt;Why do biologist have traditionally used frequentist statistics more than other inference methods?&lt;/li&gt;
+  &lt;li&gt;Recall the Monte Hall game that we extensively discussed in class.
+    &lt;ol&gt;
+      &lt;li&gt;Briefly explain why switching the doors leads to winning more frequenty?&lt;/li&gt;
+      &lt;li&gt;How often you are likely to win the game if you switch the door?&lt;/li&gt;
+      &lt;li&gt;Can you think of a situation where swithing your choice would not lead to winning the game more frequently?&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Exlain the Epistemic and Aleatoric uncertainties and their properties via the experiment of throwing a die.&lt;/li&gt;
+  &lt;li&gt;Which school of though in probability theory reconizes only one of type on uncertainty? What is the name of the uncertainty class?&lt;/li&gt;
+  &lt;li&gt;Consider the two linear and exponential fits to data in figures of &lt;a href=&quot;https://www.cdslab.org/recipes/programming/regression-predicting-future-global-land-temperature-exp/regression-predicting-future-global-land-temperature-exp&quot; target=&quot;_blank&quot;&gt;this page&lt;/a&gt;.
+    &lt;ol&gt;
+      &lt;li&gt;Which fit (linear or exponential (curved)) is a better fit to data?&lt;/li&gt;
+      &lt;li&gt;Which one predicts a higher temperature for Earth in 2050?&lt;/li&gt;
+      &lt;li&gt;Approximately, how much is that temperature increase in 2050 (with respect to 0 in 1050) according to to the two model fits?&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;How many parameters does the Normal distribution have? What are the qualitative meanings of them?&lt;/li&gt;
+  &lt;li&gt;(&lt;strong&gt;Extra-credit&lt;/strong&gt;) Use inductive logic from lower dimensions, draw a 4-dimensional cube.&lt;/li&gt;
+&lt;/ol&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/IDS2022S/quiz/5-probability-theory&quot;&gt;Quiz 5: Probability Theory&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2022S&quot;&gt;DATA 1301 - Spring 2022 - MW 2:30-3:50 PM - PKH 111 / Microsoft Teams Virtual Room&lt;/a&gt; on April 18, 2022.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>

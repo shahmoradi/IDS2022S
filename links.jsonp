@@ -2,6 +2,11 @@
 callback([
 
   {
+    "text": "Quiz 5: Probability Theory",
+    "href": "/IDS2022S/quiz/5-probability-theory"
+  } ,
+
+  {
     "text": "Quiz 4: Inference and Logic",
     "href": "/IDS2022S/quiz/4-logic"
   } ,
