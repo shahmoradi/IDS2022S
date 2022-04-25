@@ -1,6 +1,22 @@
 [
 	
 		{
+		  "title"      : "Homework 6: Prediction and Cognitive Biases",
+		  "category"   : "",
+		  "url"        : "/IDS2022S/homework/6-prediction-cognitive-biases",
+		  "date"       : "2022-04-22 00:00:00 -0500",
+		  "shortdate"  : "April 22, 2022"
+		} ,
+	
+		{
+		  "title"      : "Lecture 4: Cognitive Biases",
+		  "category"   : "",
+		  "url"        : "/IDS2022S/lecture/4-cognitive.biases",
+		  "date"       : "2022-04-20 00:00:00 -0500",
+		  "shortdate"  : "April 20, 2022"
+		} ,
+	
+		{
 		  "title"      : "Quiz 5: Probability Theory",
 		  "category"   : "",
 		  "url"        : "/IDS2022S/quiz/5-probability-theory",

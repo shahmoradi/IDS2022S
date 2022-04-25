@@ -27,6 +27,11 @@ callback([
   } ,
 
   {
+    "text": "Lecture 4: Cognitive Biases",
+    "href": "/IDS2022S/lecture/4-cognitive.biases"
+  } ,
+
+  {
     "text": "Lecture 3: Logic and Probability Theory",
     "href": "/IDS2022S/lecture/3-logic.probability"
   } ,
@@ -44,6 +49,11 @@ callback([
   {
     "text": "Lecture 0: Introduction to Data Science",
     "href": "/IDS2022S/lecture/0-intro-data-science"
+  } ,
+
+  {
+    "text": "Homework 6: Prediction and Cognitive Biases",
+    "href": "/IDS2022S/homework/6-prediction-cognitive-biases"
   } ,
 
   {

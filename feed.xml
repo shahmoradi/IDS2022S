@@ -7,13 +7,66 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/IDS2022S/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/IDS2022S/" />
-<updated>2022-04-18T14:36:28-05:00</updated>
+<updated>2022-04-25T12:27:31-05:00</updated>
 <id>http:/IDS2022S/</id>
 <author>
   <name>Amir Shahmoradi</name>
   <uri>http:/IDS2022S/</uri>
   <email>shahmoradi@utexas.edu</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Homework 6: Prediction and Cognitive Biases]]></title>
+  <link rel="alternate" type="text/html" href="http:/IDS2022S/homework/6-prediction-cognitive-biases"/>
+  <id>http:/IDS2022S/homework/6-prediction-cognitive-biases</id>
+  <published>2022-04-22T00:00:00-05:00</published>
+  <updated>2022-04-22T00:00:00-05:00</updated>
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/IDS2022S</uri>
+    <email>shahmoradi@utexas.edu</email>
+  </author>
+  
+  <content type="html">
+  
+    &lt;p&gt;♣ &lt;strong&gt;Due Date: Monday May 2, 2022 2:30 PM&lt;/strong&gt;. This homework aims at giving you some experience with Scientific Prediction and Cognitive Biases that affect human mind.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/regression-predicting-future-global-land-temperature-excel/regression-predicting-future-global-land-temperature-excel&quot; target=&quot;_blank&quot;&gt;Regression: Predicting the global land temperature of Earth in 2050 from the past data: Choosing the best model&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/puzzle-how-many-animals-in-pond/puzzle-how-many-animals-in-pond&quot; target=&quot;_blank&quot;&gt;Puzzle: How many living creatures are in the pond&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/puzzle-matchstick-equation/puzzle-matchstick-equation&quot; target=&quot;_blank&quot;&gt;Puzzle: Matchstick Wrong Equation&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/IDS2022S/homework/6-prediction-cognitive-biases&quot;&gt;Homework 6: Prediction and Cognitive Biases&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2022S&quot;&gt;DATA 1301 - Spring 2022 - MW 2:30-3:50 PM - PKH 111 / Microsoft Teams Virtual Room&lt;/a&gt; on April 22, 2022.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Lecture 4: Cognitive Biases]]></title>
+  <link rel="alternate" type="text/html" href="http:/IDS2022S/lecture/4-cognitive.biases"/>
+  <id>http:/IDS2022S/lecture/4-cognitive.biases</id>
+  <published>2022-04-20T00:00:00-05:00</published>
+  <updated>0000-00-00T00:00:00-00:00</updated>
+  
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/IDS2022S</uri>
+    <email>shahmoradi@utexas.edu</email>
+  </author>
+  
+  <content type="html">
+  
+    &lt;p&gt;This lecture aims at providing a brief overview of the role of Cognitive Biases in inference.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/s/pue4u9o4valh3rr/4.cognitive.biases.pdf?dl=0&quot; target=&quot;_blank&quot;&gt;slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/IDS2022S/lecture/4-cognitive.biases&quot;&gt;Lecture 4: Cognitive Biases&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2022S&quot;&gt;DATA 1301 - Spring 2022 - MW 2:30-3:50 PM - PKH 111 / Microsoft Teams Virtual Room&lt;/a&gt; on April 20, 2022.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -74,7 +127,7 @@ Push all your answers to &lt;strong&gt;quiz/5/&lt;/strong&gt; folder in your Git
     &lt;ol&gt;
       &lt;li&gt;Which fit (linear or exponential (curved)) is a better fit to data?&lt;/li&gt;
       &lt;li&gt;Which one predicts a higher temperature for Earth in 2050?&lt;/li&gt;
-      &lt;li&gt;Approximately, how much is that temperature increase in 2050 (with respect to 0 in 1050) according to to the two model fits?&lt;/li&gt;
+      &lt;li&gt;Approximately, how much is that temperature increase in 2050 (with respect to 0 in 1950) according to to the two model fits?&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
   &lt;li&gt;How many parameters does the Normal distribution have? What are the qualitative meanings of them?&lt;/li&gt;
