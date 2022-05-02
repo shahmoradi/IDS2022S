@@ -2,6 +2,11 @@
 callback([
 
   {
+    "text": "Quiz 6: Regression, Cognitive Biases",
+    "href": "/IDS2022S/quiz/6-regression-cognitive-biases"
+  } ,
+
+  {
     "text": "Quiz 5: Probability Theory",
     "href": "/IDS2022S/quiz/5-probability-theory"
   } ,
@@ -79,6 +84,11 @@ callback([
   {
     "text": "Homework 1: Version Control Using Git and Github",
     "href": "/IDS2022S/homework/1-vcs"
+  } ,
+
+  {
+    "text": "Final Exam",
+    "href": "/IDS2022S/exam/1-final"
   } ,
 
   {

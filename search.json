@@ -1,10 +1,26 @@
 [
 	
 		{
+		  "title"      : "Quiz 6: Regression, Cognitive Biases",
+		  "category"   : "",
+		  "url"        : "/IDS2022S/quiz/6-regression-cognitive-biases",
+		  "date"       : "2022-05-02 00:00:00 -0700",
+		  "shortdate"  : "May 02, 2022"
+		} ,
+	
+		{
+		  "title"      : "Final Exam",
+		  "category"   : "",
+		  "url"        : "/IDS2022S/exam/1-final",
+		  "date"       : "2022-05-02 00:00:00 -0700",
+		  "shortdate"  : "May 02, 2022"
+		} ,
+	
+		{
 		  "title"      : "Homework 6: Prediction and Cognitive Biases",
 		  "category"   : "",
 		  "url"        : "/IDS2022S/homework/6-prediction-cognitive-biases",
-		  "date"       : "2022-04-22 00:00:00 -0500",
+		  "date"       : "2022-04-22 00:00:00 -0700",
 		  "shortdate"  : "April 22, 2022"
 		} ,
 	
@@ -12,7 +28,7 @@
 		  "title"      : "Lecture 4: Cognitive Biases",
 		  "category"   : "",
 		  "url"        : "/IDS2022S/lecture/4-cognitive.biases",
-		  "date"       : "2022-04-20 00:00:00 -0500",
+		  "date"       : "2022-04-20 00:00:00 -0700",
 		  "shortdate"  : "April 20, 2022"
 		} ,
 	
@@ -20,7 +36,7 @@
 		  "title"      : "Quiz 5: Probability Theory",
 		  "category"   : "",
 		  "url"        : "/IDS2022S/quiz/5-probability-theory",
-		  "date"       : "2022-04-18 00:00:00 -0500",
+		  "date"       : "2022-04-18 00:00:00 -0700",
 		  "shortdate"  : "April 18, 2022"
 		} ,
 	
@@ -28,7 +44,7 @@
 		  "title"      : "Homework 5: Probability Theory",
 		  "category"   : "",
 		  "url"        : "/IDS2022S/homework/5-probability-theory",
-		  "date"       : "2022-04-11 00:00:00 -0500",
+		  "date"       : "2022-04-11 00:00:00 -0700",
 		  "shortdate"  : "April 11, 2022"
 		} ,
 	
@@ -36,7 +52,7 @@
 		  "title"      : "Quiz 4: Inference and Logic",
 		  "category"   : "",
 		  "url"        : "/IDS2022S/quiz/4-logic",
-		  "date"       : "2022-04-04 00:00:00 -0500",
+		  "date"       : "2022-04-04 00:00:00 -0700",
 		  "shortdate"  : "April 04, 2022"
 		} ,
 	
@@ -44,7 +60,7 @@
 		  "title"      : "Lecture 3: Logic and Probability Theory",
 		  "category"   : "",
 		  "url"        : "/IDS2022S/lecture/3-logic.probability",
-		  "date"       : "2022-03-21 00:00:00 -0500",
+		  "date"       : "2022-03-21 00:00:00 -0700",
 		  "shortdate"  : "March 21, 2022"
 		} ,
 	
@@ -52,7 +68,7 @@
 		  "title"      : "Homework 4: Logic",
 		  "category"   : "",
 		  "url"        : "/IDS2022S/homework/4-logic",
-		  "date"       : "2022-03-21 00:00:00 -0500",
+		  "date"       : "2022-03-21 00:00:00 -0700",
 		  "shortdate"  : "March 21, 2022"
 		} ,
 	
@@ -60,7 +76,7 @@
 		  "title"      : "Quiz 3: Data Visualization",
 		  "category"   : "",
 		  "url"        : "/IDS2022S/quiz/3-data.vis",
-		  "date"       : "2022-03-09 00:00:00 -0600",
+		  "date"       : "2022-03-09 00:00:00 -0800",
 		  "shortdate"  : "March 09, 2022"
 		} ,
 	
@@ -68,7 +84,7 @@
 		  "title"      : "Homework 3: Data Visualization",
 		  "category"   : "",
 		  "url"        : "/IDS2022S/homework/3-data-vis",
-		  "date"       : "2022-02-28 00:00:00 -0600",
+		  "date"       : "2022-02-28 00:00:00 -0800",
 		  "shortdate"  : "February 28, 2022"
 		} ,
 	
@@ -76,7 +92,7 @@
 		  "title"      : "Quiz 2: Programming History",
 		  "category"   : "",
 		  "url"        : "/IDS2022S/quiz/2-prog-hist",
-		  "date"       : "2022-02-21 00:00:00 -0600",
+		  "date"       : "2022-02-21 00:00:00 -0800",
 		  "shortdate"  : "February 21, 2022"
 		} ,
 	
@@ -84,7 +100,7 @@
 		  "title"      : "Lecture 2: Data Visualization Techniques",
 		  "category"   : "",
 		  "url"        : "/IDS2022S/lecture/2-data.vis",
-		  "date"       : "2022-02-16 00:00:00 -0600",
+		  "date"       : "2022-02-16 00:00:00 -0800",
 		  "shortdate"  : "February 16, 2022"
 		} ,
 	
@@ -92,7 +108,7 @@
 		  "title"      : "Homework 2: Programming History",
 		  "category"   : "",
 		  "url"        : "/IDS2022S/homework/2-programming-history",
-		  "date"       : "2022-02-14 00:00:00 -0600",
+		  "date"       : "2022-02-14 00:00:00 -0800",
 		  "shortdate"  : "February 14, 2022"
 		} ,
 	
@@ -100,7 +116,7 @@
 		  "title"      : "Quiz 1: Intro. Data Science, Version Control Systems",
 		  "category"   : "",
 		  "url"        : "/IDS2022S/quiz/1-intro-vcs",
-		  "date"       : "2022-02-09 00:00:00 -0600",
+		  "date"       : "2022-02-09 00:00:00 -0800",
 		  "shortdate"  : "February 09, 2022"
 		} ,
 	
@@ -108,7 +124,7 @@
 		  "title"      : "Lecture 1: Programming history",
 		  "category"   : "",
 		  "url"        : "/IDS2022S/lecture/1-programming-history",
-		  "date"       : "2022-01-31 00:00:00 -0600",
+		  "date"       : "2022-01-31 00:00:00 -0800",
 		  "shortdate"  : "January 31, 2022"
 		} ,
 	
@@ -116,7 +132,7 @@
 		  "title"      : "Homework 1: Version Control Using Git and Github",
 		  "category"   : "",
 		  "url"        : "/IDS2022S/homework/1-vcs",
-		  "date"       : "2022-01-26 00:00:00 -0600",
+		  "date"       : "2022-01-26 00:00:00 -0800",
 		  "shortdate"  : "January 26, 2022"
 		} ,
 	
@@ -124,7 +140,7 @@
 		  "title"      : "Lecture 0: Introduction to Data Science",
 		  "category"   : "",
 		  "url"        : "/IDS2022S/lecture/0-intro-data-science",
-		  "date"       : "2022-01-24 00:00:00 -0600",
+		  "date"       : "2022-01-24 00:00:00 -0800",
 		  "shortdate"  : "January 24, 2022"
 		} ,
 	
@@ -132,7 +148,7 @@
 		  "title"      : "Announcement 0: Student-professor connection day",
 		  "category"   : "",
 		  "url"        : "/IDS2022S/announcement/0-student-professor-connection-day",
-		  "date"       : "2022-01-19 00:00:00 -0600",
+		  "date"       : "2022-01-19 00:00:00 -0800",
 		  "shortdate"  : "January 19, 2022"
 		} 
 	
