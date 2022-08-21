@@ -2,36 +2,6 @@
 callback([
 
   {
-    "text": "Quiz 6: Regression, Cognitive Biases",
-    "href": "/IDS2022S/quiz/6-regression-cognitive-biases"
-  } ,
-
-  {
-    "text": "Quiz 5: Probability Theory",
-    "href": "/IDS2022S/quiz/5-probability-theory"
-  } ,
-
-  {
-    "text": "Quiz 4: Inference and Logic",
-    "href": "/IDS2022S/quiz/4-logic"
-  } ,
-
-  {
-    "text": "Quiz 3: Data Visualization",
-    "href": "/IDS2022S/quiz/3-data.vis"
-  } ,
-
-  {
-    "text": "Quiz 2: Programming History",
-    "href": "/IDS2022S/quiz/2-prog-hist"
-  } ,
-
-  {
-    "text": "Quiz 1: Intro. Data Science, Version Control Systems",
-    "href": "/IDS2022S/quiz/1-intro-vcs"
-  } ,
-
-  {
     "text": "Lecture 4: Cognitive Biases",
     "href": "/IDS2022S/lecture/4-cognitive.biases"
   } ,
@@ -54,41 +24,6 @@ callback([
   {
     "text": "Lecture 0: Introduction to Data Science",
     "href": "/IDS2022S/lecture/0-intro-data-science"
-  } ,
-
-  {
-    "text": "Homework 6: Prediction and Cognitive Biases",
-    "href": "/IDS2022S/homework/6-prediction-cognitive-biases"
-  } ,
-
-  {
-    "text": "Homework 5: Probability Theory",
-    "href": "/IDS2022S/homework/5-probability-theory"
-  } ,
-
-  {
-    "text": "Homework 4: Logic",
-    "href": "/IDS2022S/homework/4-logic"
-  } ,
-
-  {
-    "text": "Homework 3: Data Visualization",
-    "href": "/IDS2022S/homework/3-data-vis"
-  } ,
-
-  {
-    "text": "Homework 2: Programming History",
-    "href": "/IDS2022S/homework/2-programming-history"
-  } ,
-
-  {
-    "text": "Homework 1: Version Control Using Git and Github",
-    "href": "/IDS2022S/homework/1-vcs"
-  } ,
-
-  {
-    "text": "Final Exam",
-    "href": "/IDS2022S/exam/1-final"
   } ,
 
   {

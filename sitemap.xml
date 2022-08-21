@@ -48,31 +48,7 @@
 
     
     <url>
-        <loc>/IDS2022S/quiz/6-regression-cognitive-biases</loc>
-    </url>
-    
-    <url>
-        <loc>/IDS2022S/exam/1-final</loc>
-    </url>
-    
-    <url>
-        <loc>/IDS2022S/homework/6-prediction-cognitive-biases</loc>
-    </url>
-    
-    <url>
         <loc>/IDS2022S/lecture/4-cognitive.biases</loc>
-    </url>
-    
-    <url>
-        <loc>/IDS2022S/quiz/5-probability-theory</loc>
-    </url>
-    
-    <url>
-        <loc>/IDS2022S/homework/5-probability-theory</loc>
-    </url>
-    
-    <url>
-        <loc>/IDS2022S/quiz/4-logic</loc>
     </url>
     
     <url>
@@ -80,39 +56,11 @@
     </url>
     
     <url>
-        <loc>/IDS2022S/homework/4-logic</loc>
-    </url>
-    
-    <url>
-        <loc>/IDS2022S/quiz/3-data.vis</loc>
-    </url>
-    
-    <url>
-        <loc>/IDS2022S/homework/3-data-vis</loc>
-    </url>
-    
-    <url>
-        <loc>/IDS2022S/quiz/2-prog-hist</loc>
-    </url>
-    
-    <url>
         <loc>/IDS2022S/lecture/2-data.vis</loc>
     </url>
     
     <url>
-        <loc>/IDS2022S/homework/2-programming-history</loc>
-    </url>
-    
-    <url>
-        <loc>/IDS2022S/quiz/1-intro-vcs</loc>
-    </url>
-    
-    <url>
         <loc>/IDS2022S/lecture/1-programming-history</loc>
-    </url>
-    
-    <url>
-        <loc>/IDS2022S/homework/1-vcs</loc>
     </url>
     
     <url>
